@@ -1,1 +1,1 @@
-# In this repo. frequently used functions are added. Enjoy!
+# In this repo. frequently used scripts are added which made my life really easy. Enjoy!
